@@ -11,6 +11,7 @@ body {
 
 .homepage-h1 {
   font-size: 90px;
+  margin-top: -20px;
 }
 
 .homepage-h3 {
@@ -26,4 +27,8 @@ ul {
 img {
   border-radius: 15px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.love-to-hear-from-you {
+  color: rgba(0, 0, 0, 0.5);
 }
