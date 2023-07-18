@@ -39,7 +39,6 @@ img {
 
 .homepage-heading {
   font-size: 60px;
-  margin-top: -20px;
   color: #942d18;
 }
 
@@ -53,14 +52,10 @@ img {
 
 .croissant-emoji {
   font-size: 50px;
-  margin-top: -20px;
-  margin-bottom: 30px;
 }
 
 .heart-emoji {
   font-size: 50px;
-  margin-top: 15px;
-  margin-bottom: 15px;
 }
 
 .email {
