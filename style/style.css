@@ -3,16 +3,28 @@ body {
   display: block;
   margin: 40px 20px 40px 20px;
   text-align: center;
+  background-color: #f3e9ce;
+  color: #a07758;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .navigation-panel {
-  text-decoration: none;
   margin-bottom: 40px;
+}
+
+.navigation-panel a {
+  text-decoration: none;
+  color: #377e84;
 }
 
 .homepage-heading {
   font-size: 60px;
   margin-top: -20px;
+}
+
+.email {
+  text-decoration: none;
+  color: #377e84;
 }
 
 ul {
@@ -28,8 +40,4 @@ img {
   border-radius: 15px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   width: 415px;
-}
-
-.love-to-hear-from-you {
-  color: rgba(0, 0, 0, 0.7);
 }
