@@ -40,6 +40,15 @@ img {
 .homepage-heading {
   font-size: 60px;
   margin-top: -20px;
+  color: #942d18;
+}
+
+.photo-heading {
+  color: #942d18;
+}
+
+.contact-heading {
+  color: #942d18;
 }
 
 .croissant-emoji {
